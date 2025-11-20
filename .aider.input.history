@@ -1,0 +1,110 @@
+
+# 2025-11-20 15:14:13.379519
++Code the following app
++```
++✅ PROMPT FINALE (Factory-Ready – Emoji Arcade Edition)
++
++Create a very simple emoji mini game called “Crypto Blaster 2089”.
++
++Goal: the player uses an emoji weapon to hit an emoji enemy.
++
++Flow:
++
++Start Screen
++Show the title “Crypto Blaster 2089” and a button Start.
++
++Choose Weapon
++Show 3 emoji buttons the user can choose from:
++
++🔫 LaserKey
++
++🗡️ TokenBlade
++
++🚀 HashCannon
++
++Battle Screen
++After choosing the weapon, show:
++
++the player ship → 🚀
++
++the enemy → 👾
++
++the projectile → 💥
++
++Add a button FIRE.
++When the user presses FIRE, move the projectile emoji toward the enemy.
++Outcome:
++
++If hit: show “You destroyed the Centralized Invader! ✔️”
++
++If miss: show “You missed! Try again.”
++
++(Keep the logic simple.)
++
++Reward Screen
++After a hit, show a small emoji badge (example: 🏅 + the weapon emoji).
++Add a button Mint NFT to mint the badge on Base (if supported).
++Add a button Share to share the badge and a short text to Farcaster, Base All and Zora.
++
++Style:
++Simple UI, light blue background, emojis only, minimal arcade vibes.
++
++Keep everything short and easy. No complex logic.
++```
++
++Generate an app logo and update the app metadata title and description.
+
+# 2025-11-20 15:14:13.380300
++Code the following app
++```
++✅ PROMPT FINALE (Factory-Ready – Emoji Arcade Edition)
++
++Create a very simple emoji mini game called “Crypto Blaster 2089”.
++
++Goal: the player uses an emoji weapon to hit an emoji enemy.
++
++Flow:
++
++Start Screen
++Show the title “Crypto Blaster 2089” and a button Start.
++
++Choose Weapon
++Show 3 emoji buttons the user can choose from:
++
++🔫 LaserKey
++
++🗡️ TokenBlade
++
++🚀 HashCannon
++
++Battle Screen
++After choosing the weapon, show:
++
++the player ship → 🚀
++
++the enemy → 👾
++
++the projectile → 💥
++
++Add a button FIRE.
++When the user presses FIRE, move the projectile emoji toward the enemy.
++Outcome:
++
++If hit: show “You destroyed the Centralized Invader! ✔️”
++
++If miss: show “You missed! Try again.”
++
++(Keep the logic simple.)
++
++Reward Screen
++After a hit, show a small emoji badge (example: 🏅 + the weapon emoji).
++Add a button Mint NFT to mint the badge on Base (if supported).
++Add a button Share to share the badge and a short text to Farcaster, Base All and Zora.
++
++Style:
++Simple UI, light blue background, emojis only, minimal arcade vibes.
++
++Keep everything short and easy. No complex logic.
++```
++
++Generate an app logo and update the app metadata title and description.
