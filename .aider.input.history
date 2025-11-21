@@ -108,3 +108,41 @@
 +```
 +
 +Generate an app logo and update the app metadata title and description.
+
+# 2025-11-21 11:41:11.391757
++Create a very simple emoji game called Crypto Blaster 2089.
++
++The screen shows:
++- a rocket emoji 🚀 on the left
++- an enemy emoji 👾 on the right
++- a button labelled FIRE
++- a score number at the top starting from 0
++
++When the user presses the FIRE button:
++- sometimes the rocket hits the enemy and the text "HIT! +1 point" is shown and the score increases by 1
++- sometimes the rocket misses and the text "MISS! 0 points" is shown and the score does not change
++
++The user can press FIRE many times to try to get a higher score.
++
++Keep the layout very simple: light background, emojis, one button and a score number.
++Do not add any other features.
++
+
+# 2025-11-21 11:41:11.392402
++Create a very simple emoji game called Crypto Blaster 2089.
++
++The screen shows:
++- a rocket emoji 🚀 on the left
++- an enemy emoji 👾 on the right
++- a button labelled FIRE
++- a score number at the top starting from 0
++
++When the user presses the FIRE button:
++- sometimes the rocket hits the enemy and the text "HIT! +1 point" is shown and the score increases by 1
++- sometimes the rocket misses and the text "MISS! 0 points" is shown and the score does not change
++
++The user can press FIRE many times to try to get a higher score.
++
++Keep the layout very simple: light background, emojis, one button and a score number.
++Do not add any other features.
++
