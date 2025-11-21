@@ -146,3 +146,23 @@
 +Keep the layout very simple: light background, emojis, one button and a score number.
 +Do not add any other features.
 +
+
+# 2025-11-21 12:09:43.250181
++Create a simple emoji guessing game.
++Show a target emoji 👾 at the top.
++Add a button TRY.
++When the user presses TRY, show a random emoji under the button.
++If the emoji is 👾, increase the score by 1.
++Show the score on the screen.
++Keep it extremely simple.
++
+
+# 2025-11-21 12:09:43.251124
++Create a simple emoji guessing game.
++Show a target emoji 👾 at the top.
++Add a button TRY.
++When the user presses TRY, show a random emoji under the button.
++If the emoji is 👾, increase the score by 1.
++Show the score on the screen.
++Keep it extremely simple.
++
