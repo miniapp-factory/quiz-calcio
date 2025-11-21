@@ -166,3 +166,103 @@
 +Show the score on the screen.
 +Keep it extremely simple.
 +
+
+# 2025-11-21 12:20:54.398980
++Create a very simple Football Quiz game.
++
++Show a score at the top starting from 0.
++
++Show one question at a time with 3 answer buttons.
++
++Use ONLY the following questions:
++
++1. “Who won the World Cup in 2006?” 
++A: Italy 
++B: France 
++C: Brazil 
++Correct: A
++
++2. “Which club does Haaland play for?” 
++A: Real Madrid 
++B: Manchester City 
++C: PSG 
++Correct: B
++
++3. “Who wears the number 10 for Argentina?” 
++A: Messi 
++B: Di Maria 
++C: Alvarez 
++Correct: A
++
++4. “Who won the Ballon d'Or in 2023?” 
++A: Haaland 
++B: Messi 
++C: Mbappé 
++Correct: B
++
++5. “Which country has won the most World Cups?” 
++A: Brazil 
++B: Germany 
++C: Argentina 
++Correct: A
++
++When the user taps an answer:
++- If correct, show “Correct! +1 point” and add 1 to the score.
++- If wrong, show “Wrong! 0 points”.
++
++After the result, show a button “Next Question” that loads a random question from the list above.
++
++Keep the layout VERY simple: text question, three answer buttons, score on top, result text, next question button.
++Do NOT add any animations or extra features.
++
++
+
+# 2025-11-21 12:20:54.399669
++Create a very simple Football Quiz game.
++
++Show a score at the top starting from 0.
++
++Show one question at a time with 3 answer buttons.
++
++Use ONLY the following questions:
++
++1. “Who won the World Cup in 2006?” 
++A: Italy 
++B: France 
++C: Brazil 
++Correct: A
++
++2. “Which club does Haaland play for?” 
++A: Real Madrid 
++B: Manchester City 
++C: PSG 
++Correct: B
++
++3. “Who wears the number 10 for Argentina?” 
++A: Messi 
++B: Di Maria 
++C: Alvarez 
++Correct: A
++
++4. “Who won the Ballon d'Or in 2023?” 
++A: Haaland 
++B: Messi 
++C: Mbappé 
++Correct: B
++
++5. “Which country has won the most World Cups?” 
++A: Brazil 
++B: Germany 
++C: Argentina 
++Correct: A
++
++When the user taps an answer:
++- If correct, show “Correct! +1 point” and add 1 to the score.
++- If wrong, show “Wrong! 0 points”.
++
++After the result, show a button “Next Question” that loads a random question from the list above.
++
++Keep the layout VERY simple: text question, three answer buttons, score on top, result text, next question button.
++Do NOT add any animations or extra features.
++
++
